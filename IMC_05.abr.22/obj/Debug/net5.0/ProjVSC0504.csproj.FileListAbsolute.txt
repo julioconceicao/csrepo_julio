@@ -1,0 +1,16 @@
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\obj\Debug\net5.0\ProjVSC0504.csproj.AssemblyReference.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\obj\Debug\net5.0\ProjVSC0504.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\obj\Debug\net5.0\ProjVSC0504.AssemblyInfoInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\obj\Debug\net5.0\ProjVSC0504.AssemblyInfo.cs
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\obj\Debug\net5.0\ProjVSC0504.csproj.CoreCompileInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\bin\Debug\net5.0\ProjVSC0504.exe
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\bin\Debug\net5.0\ProjVSC0504.deps.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\bin\Debug\net5.0\ProjVSC0504.runtimeconfig.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\bin\Debug\net5.0\ProjVSC0504.runtimeconfig.dev.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\bin\Debug\net5.0\ProjVSC0504.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\bin\Debug\net5.0\ref\ProjVSC0504.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\bin\Debug\net5.0\ProjVSC0504.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\obj\Debug\net5.0\ProjVSC0504.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\obj\Debug\net5.0\ref\ProjVSC0504.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\obj\Debug\net5.0\ProjVSC0504.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\Atualizações 05.04.22\ProjVSC0504\obj\Debug\net5.0\ProjVSC0504.genruntimeconfig.cache
