@@ -1,0 +1,16 @@
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\obj\Debug\net5.0\TABUADA060422.csproj.AssemblyReference.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\obj\Debug\net5.0\TABUADA060422.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\obj\Debug\net5.0\TABUADA060422.AssemblyInfoInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\obj\Debug\net5.0\TABUADA060422.AssemblyInfo.cs
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\obj\Debug\net5.0\TABUADA060422.csproj.CoreCompileInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\bin\Debug\net5.0\TABUADA060422.exe
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\bin\Debug\net5.0\TABUADA060422.deps.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\bin\Debug\net5.0\TABUADA060422.runtimeconfig.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\bin\Debug\net5.0\TABUADA060422.runtimeconfig.dev.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\bin\Debug\net5.0\TABUADA060422.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\bin\Debug\net5.0\ref\TABUADA060422.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\bin\Debug\net5.0\TABUADA060422.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\obj\Debug\net5.0\TABUADA060422.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\obj\Debug\net5.0\ref\TABUADA060422.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\obj\Debug\net5.0\TABUADA060422.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\TABUADA060422\obj\Debug\net5.0\TABUADA060422.genruntimeconfig.cache
