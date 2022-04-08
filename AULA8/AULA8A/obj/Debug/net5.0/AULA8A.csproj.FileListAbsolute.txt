@@ -1,0 +1,5 @@
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\AULA8A\obj\Debug\net5.0\AULA8A.csproj.AssemblyReference.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\AULA8A\obj\Debug\net5.0\AULA8A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\AULA8A\obj\Debug\net5.0\AULA8A.AssemblyInfoInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\AULA8A\obj\Debug\net5.0\AULA8A.AssemblyInfo.cs
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\AULA8A\obj\Debug\net5.0\AULA8A.csproj.CoreCompileInputs.cache

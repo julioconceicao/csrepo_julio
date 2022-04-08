@@ -1,0 +1,16 @@
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\obj\Debug\net5.0\LISTA8.csproj.AssemblyReference.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\obj\Debug\net5.0\LISTA8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\obj\Debug\net5.0\LISTA8.AssemblyInfoInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\obj\Debug\net5.0\LISTA8.AssemblyInfo.cs
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\obj\Debug\net5.0\LISTA8.csproj.CoreCompileInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\bin\Debug\net5.0\LISTA8.exe
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\bin\Debug\net5.0\LISTA8.deps.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\bin\Debug\net5.0\LISTA8.runtimeconfig.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\bin\Debug\net5.0\LISTA8.runtimeconfig.dev.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\bin\Debug\net5.0\LISTA8.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\bin\Debug\net5.0\LISTA8.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\obj\Debug\net5.0\LISTA8.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\obj\Debug\net5.0\refint\LISTA8.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\obj\Debug\net5.0\LISTA8.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\obj\Debug\net5.0\LISTA8.genruntimeconfig.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\csrepo_julio\AULA8A\LISTA8\LISTA8\obj\Debug\net5.0\ref\LISTA8.dll
