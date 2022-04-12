@@ -1,0 +1,16 @@
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\bin\Debug\net5.0\Zoologico.exe
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\bin\Debug\net5.0\Zoologico.deps.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\bin\Debug\net5.0\Zoologico.runtimeconfig.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\bin\Debug\net5.0\Zoologico.runtimeconfig.dev.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\bin\Debug\net5.0\Zoologico.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\bin\Debug\net5.0\ref\Zoologico.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\bin\Debug\net5.0\Zoologico.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\obj\Debug\net5.0\Zoologico.csproj.AssemblyReference.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\obj\Debug\net5.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\obj\Debug\net5.0\Zoologico.AssemblyInfoInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\obj\Debug\net5.0\Zoologico.AssemblyInfo.cs
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\obj\Debug\net5.0\Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\obj\Debug\net5.0\Zoologico.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\obj\Debug\net5.0\ref\Zoologico.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\obj\Debug\net5.0\Zoologico.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\Zoologico\obj\Debug\net5.0\Zoologico.genruntimeconfig.cache

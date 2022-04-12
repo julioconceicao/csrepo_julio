@@ -1,0 +1,16 @@
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\bin\Debug\net5.0\CalcArea.exe
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\bin\Debug\net5.0\CalcArea.deps.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\bin\Debug\net5.0\CalcArea.runtimeconfig.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\bin\Debug\net5.0\CalcArea.runtimeconfig.dev.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\bin\Debug\net5.0\CalcArea.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\bin\Debug\net5.0\ref\CalcArea.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\bin\Debug\net5.0\CalcArea.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\obj\Debug\net5.0\CalcArea.csproj.AssemblyReference.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\obj\Debug\net5.0\CalcArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\obj\Debug\net5.0\CalcArea.AssemblyInfoInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\obj\Debug\net5.0\CalcArea.AssemblyInfo.cs
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\obj\Debug\net5.0\CalcArea.csproj.CoreCompileInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\obj\Debug\net5.0\CalcArea.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\obj\Debug\net5.0\ref\CalcArea.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\obj\Debug\net5.0\CalcArea.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\LISTA10\CalcArea\obj\Debug\net5.0\CalcArea.genruntimeconfig.cache
